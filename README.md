@@ -1,2 +1,2 @@
 # SimpleGame
-+ 2 zadania
+++2 zadania
